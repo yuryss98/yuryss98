@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yury Stolarz</h1>
 <h3 align="center">Estudante de desenvolvimento Web | Trybe</h3>
 
-- 🌱 Sou apaixonado em Tecnologia e desenvolvimento, meu objetivo é contruir uma carreira como desenvolvedor Back-end. Me apaixonei muito por essa profissão.
+- 🌱 Sou apaixonado em Tecnologia e Desenvolvimento, meu objetivo é contruir uma carreira como desenvolvedor Back-end. Me apaixonei muito por essa profissão.
 
 - :speech_balloon: Atualmente estou aprendendo **Docker, Mysql, Node, Sequelize**
 
