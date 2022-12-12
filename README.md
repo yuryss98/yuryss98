@@ -3,7 +3,7 @@
 
 - 🌱 Sou apaixonado em Tecnologia e Desenvolvimento, meu objetivo é contruir uma carreira como desenvolvedor Back-end. Me apaixonei muito por essa profissão.
 
-- :speech_balloon: Atualmente estou aprendendo **Docker, Mysql, Node, Sequelize**
+- :speech_balloon: Atualmente estou aprendendo **TypeScript**
 
 - 📫 Como chegar ate mim **yurysscareer@gmail.com**
 
